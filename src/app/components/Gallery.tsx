@@ -17,13 +17,13 @@ const Gallery = () => {
         </div>
         <div className='flex justify-center items-center gap-4 mb-10'>
             <div className='bg-yellow-600 text-white px-4 py-2'>
-                <h1>All</h1>
+                <h2>All</h2>
             </div>
             <div >
-                <h1>Ceremony</h1>
+                <h2>Ceremony</h2>
             </div>
             <div>
-                <h1>Party</h1>
+                <h2>Party</h2>
             </div>
         </div>
       <div className="max-w-6xl mx-auto px-4">

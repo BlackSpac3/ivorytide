@@ -11,6 +11,8 @@ import Watch from "./components/Watch";
 import Welcome from "./components/Welcome";
 import Where from "./components/Where";
 import Rsvp from "./components/Rsvp";
+import Insta from "./components/insta";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -26,8 +28,9 @@ export default function Home() {
       <Gallery />
       <Date />
       <Where />
-      <Where />
       <Rsvp />
+      <Insta />
+      <Footer />
      
     </div>
   );

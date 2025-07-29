@@ -16,7 +16,7 @@ const Where = () => {
           </div>
           <div className="flex gap-15">
             <div>
-              <h1>24th</h1>
+              <h2>24th</h2>
               <p>Dec 2022</p>
             </div>
             <div>
@@ -25,11 +25,11 @@ const Where = () => {
               <div className="mt-6">
                 <div className="flex gap-6">
                   <p>📌</p>
-                  <h1>175 Broadway, Brooklyn NY <span className="block">New York 11244, USA</span></h1>
+                  <h2>175 Broadway, Brooklyn NY <span className="block">New York 11244, USA</span></h2>
                 </div>
                 <div className="flex gap-6 mt-4">
                   <p>🕝</p>
-                  <h1>12:00am – 13:00pm</h1>
+                  <h2>12:00am – 13:00pm</h2>
                 </div>
               </div>
             </div>
@@ -41,7 +41,7 @@ const Where = () => {
           </div>
           <div className="flex gap-15">
             <div>
-              <h1>24th</h1>
+              <h2>24th</h2>
               <p>Dec 2022</p>
             </div>
             <div>
@@ -50,11 +50,11 @@ const Where = () => {
               <div className="mt-6">
                 <div className="flex gap-6">
                   <p>📌</p>
-                  <h1>175 Broadway, Brooklyn NY <span className="block">New York 11244, USA</span></h1>
+                  <h2>175 Broadway, Brooklyn NY <span className="block">New York 11244, USA</span></h2>
                 </div>
                 <div className="flex gap-6 mt-4">
                   <p>🕝</p>
-                  <h1>12:00am – 13:00pm</h1>
+                  <h2>12:00am – 13:00pm</h2>
                 </div>
               </div>
             </div>

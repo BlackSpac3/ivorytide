@@ -13,8 +13,8 @@ const Welcome = () => {
       </div>
       <div className="text-center -mt-40">
         <div>
-          <p>Hello & Welcome</p>
-          <h1>We're getting married!</h1>
+          <p className="-tracking-[-5px]">Hello & Welcome</p>
+          <h1 className=" mt-4">We're getting married!</h1>
         </div>
         <p className="w-1/2 m-auto pt-10">
           Today and always, beyond tomorrow, I need you beside me, always as my

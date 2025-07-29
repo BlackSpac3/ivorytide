@@ -19,7 +19,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Bridesmaid</h3>
           </div>
         </div>
         <div className="w-[40%]">
@@ -34,7 +34,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Bridesmaid</h3>
           </div>
         </div>
         <div className="w-[40%]">
@@ -49,7 +49,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Bridesmaid</h3>
           </div>
         </div>
       </div>
@@ -66,7 +66,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Groonsmen</h3>
           </div>
         </div>
         <div className="w-[40%]">
@@ -81,7 +81,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Groonsmen</h3>
           </div>
         </div>
         <div className="w-[40%]">
@@ -96,7 +96,7 @@ const Friends = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h3 className="mt-2">The Groonsmen</h3>
           </div>
         </div>
 

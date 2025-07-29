@@ -1,2 +1,26 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: 'alex';
+  src: url('/fonts/AlexBrush-Regular.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('/fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    font-family: "alex", sans-serif;
+    font-size: 60px;
+}
+p{
+    font-family: "roboto", sans-serif;
+}
+h3{
+    font-family: "alex", sans-serif;
+    font-size: 25px;
+}

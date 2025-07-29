@@ -20,7 +20,7 @@ const Happy = () => {
           </div>
           <div className="text-center">
             <p className="mt-5">MARY BROWN</p>
-            <h1 className="mt-2">The Bride</h1>
+            <h1 className="mt-2 text-2xl">The Bride</h1>
             <p className="w-[50%] mx-auto mt-4">
               Mary fringilla dui at elit finibus viverra nec alan seda couple
               the miss druane sema the wedding intono miss sollicitudin non the
